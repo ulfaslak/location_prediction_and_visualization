@@ -1,4 +1,4 @@
-[toc]
+
 
 List of papers
 --------------
